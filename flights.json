@@ -1,0 +1,14 @@
+[
+  {
+    "id": "demo-par-suk-20261124",
+    "origin": "PAR",
+    "destination": "SUK",
+    "date": "2026-11-24",
+    "departure": "17:00",
+    "arrival": "18:20",
+    "duration_minutes": 80,
+    "aircraft": "Airbus A320-200",
+    "timezone": "Europe/Moscow",
+    "demo": true
+  }
+]

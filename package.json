@@ -1,0 +1,1 @@
+{"name":"abkhaz-air","private":true,"version":"1.0.0","scripts":{"dev":"python3 server.py --host 0.0.0.0 --port 3000","test":"python3 -m unittest discover -s tests -v"}}
